@@ -2,7 +2,7 @@
   "name": "directory-of-employees",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/justinjarrard/employee-directory",
+  "homepage": "http://justinjarrard.github.io/employee-directory/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
